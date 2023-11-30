@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8dvRxmD8QuivsnebxN3ZZ6HKdKvE/qmndlIYRAnIOFlVat2Asowh1twxpfdJbFwUOElN8QV5T9VvSvj9GYHQUA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\Скоропечатание2\\Скоропечатание2\\Скоропечатание2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

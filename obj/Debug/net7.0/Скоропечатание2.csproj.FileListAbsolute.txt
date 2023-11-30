@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\Скоропечатание2\Скоропечатание2\bin\Debug\net7.0\Скоропечатание2.exe
+C:\Users\user\source\repos\Скоропечатание2\Скоропечатание2\bin\Debug\net7.0\Скоропечатание2.deps.json
+C:\Users\user\source\repos\Скоропечатание2\Скоропечатание2\bin\Debug\net7.0\Скоропечатание2.runtimeconfig.json
+C:\Users\user\source\repos\Скоропечатание2\Скоропечатание2\bin\Debug\net7.0\Скоропечатание2.dll
+C:\Users\user\source\repos\Скоропечатание2\Скоропечатание2\bin\Debug\net7.0\Скоропечатание2.pdb
+C:\Users\user\source\repos\Скоропечатание2\Скоропечатание2\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\user\source\repos\Скоропечатание2\Скоропечатание2\obj\Debug\net7.0\Скоропечатание2.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Скоропечатание2\Скоропечатание2\obj\Debug\net7.0\Скоропечатание2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Скоропечатание2\Скоропечатание2\obj\Debug\net7.0\Скоропечатание2.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Скоропечатание2\Скоропечатание2\obj\Debug\net7.0\Скоропечатание2.AssemblyInfo.cs
+C:\Users\user\source\repos\Скоропечатание2\Скоропечатание2\obj\Debug\net7.0\Скоропечатание2.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Скоропечатание2\Скоропечатание2\obj\Debug\net7.0\Скоропечатание2.csproj.CopyComplete
+C:\Users\user\source\repos\Скоропечатание2\Скоропечатание2\obj\Debug\net7.0\Скоропечатание2.dll
+C:\Users\user\source\repos\Скоропечатание2\Скоропечатание2\obj\Debug\net7.0\refint\Скоропечатание2.dll
+C:\Users\user\source\repos\Скоропечатание2\Скоропечатание2\obj\Debug\net7.0\Скоропечатание2.pdb
+C:\Users\user\source\repos\Скоропечатание2\Скоропечатание2\obj\Debug\net7.0\Скоропечатание2.genruntimeconfig.cache
+C:\Users\user\source\repos\Скоропечатание2\Скоропечатание2\obj\Debug\net7.0\ref\Скоропечатание2.dll
